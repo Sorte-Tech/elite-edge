@@ -9,53 +9,53 @@
         v-for="(item, index) in PageContent.projects"
         :key="index"
       >
-        <nuxt-link :to="'/projects/' + index">
+        <a :href="'/projects/' + index">
           <div class="wrapper">
             <b-img :src="item.project_image"></b-img>
             <p class="mb-0">{{ item.project_name }}</p>
           </div>
-        </nuxt-link>
+        </a>
       </section>
 
       <!-- <section class="panel align-items-center">
-        <nuxt-link to="/projects/3">
+        <a href="/projects/3">
           <div class="wrapper">
             <b-img src="@/assets/images/png/project01.png"></b-img>
             <p class="mb-0">iswagger</p>
           </div>
-        </nuxt-link>
+        </a>
       </section>
       <section class="panel align-items-center">
-        <nuxt-link to="/projects/1">
+        <a href="/projects/1">
           <div class="wrapper">
             <b-img src="@/assets/images/png/elite-edge-bg-img1.png"></b-img>
             <p class="mb-0">ishease</p>
           </div>
-        </nuxt-link>
+        </a>
       </section>
       <section class="panel align-items-center">
-        <nuxt-link to="/projects/1">
+        <a href="/projects/1">
           <div class="wrapper">
             <b-img src="@/assets/images/png/elite-edge-bg-img1.png"></b-img>
             <p class="mb-0">ishease</p>
           </div>
-        </nuxt-link>
+        </a>
       </section>
       <section class="panel align-items-center">
-        <nuxt-link to="/projects/1">
+        <a href="/projects/1">
           <div class="wrapper">
             <b-img src="@/assets/images/png/elite-edge-bg-img1.png"></b-img>
             <p class="mb-0">ishease</p>
           </div>
-        </nuxt-link>
+        </a>
       </section>
       <section class="panel align-items-center">
-        <nuxt-link to="/projects/1">
+        <a href="/projects/1">
           <div class="wrapper">
             <b-img src="@/assets/images/png/elite-edge-bg-img1.png"></b-img>
             <p class="mb-0">ishease</p>
           </div>
-        </nuxt-link>
+        </a>
       </section> -->
       <!-- <section class="panel align-items-center"></section> -->
     </div>

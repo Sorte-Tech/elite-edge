@@ -21,16 +21,16 @@
         <div class="menu-container">
           <ul>
             <li>
-              <NuxtLink to="/">Home</NuxtLink>
+              <a href="/">Home</a>
             </li>
             <li>
-              <NuxtLink to="/about">Who We Are</NuxtLink>
+              <a href="/about">Who We Are</a>
             </li>
             <li>
-              <NuxtLink to="/projects">Portfolio</NuxtLink>
+              <a href="/projects">Portfolio</a>
             </li>
             <li>
-              <NuxtLink to="/contact">Contact Us</NuxtLink>
+              <a href="/contact">Contact Us</a>
             </li>
           </ul>
         </div>

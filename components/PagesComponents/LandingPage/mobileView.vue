@@ -65,9 +65,9 @@
             <p>Branding, marketing, social meadia</p>
           </div>
         </div>
-        <nuxt-link to="/projects" class="mx-auto text-center d-block">
+        <a href="/projects" class="mx-auto text-center d-block">
           <button>View all products</button>
-        </nuxt-link>
+        </a>
       </section>
     </div>
 

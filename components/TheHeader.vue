@@ -3,7 +3,7 @@
     <div class="nav-wrapper">
       <div class="nav">
         <header class="d-flex justify-content-between align-items-start w-100">
-          <nuxt-link to="/">
+          <a href="/">
             <div class="logo-brand">
               <img
                 src="../assets/images/png/elite-edge-logo.png"
@@ -17,12 +17,12 @@
                 alt=""
               />
             </div>
-          </nuxt-link>
+          </a>
 
           <div class="links" align="right">
-            <nuxt-link to="/about">about</nuxt-link> <br />
-            <nuxt-link to="/projects">portfolio</nuxt-link> <br />
-            <nuxt-link to="/contact">contact us</nuxt-link>
+            <a href="/about">about</a> <br />
+            <a href="/projects">portfolio</a> <br />
+            <a href="/contact">contact us</a>
           </div>
           <!-- <button v-b-toggle.sidebar-backdrop.>click</button> -->
           <div class="menu-toggle d-lg-none" v-b-toggle.sidebar-backdrop>
@@ -104,7 +104,7 @@ header {
       font-weight: 500;
       text-transform: uppercase;
       font-family: $secondary-font;
-      &.nuxt-link-exact-active {
+      &.a-exact-active {
         color: red;
         position: relative;
         transition: 0.25s all ease-out;

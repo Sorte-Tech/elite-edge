@@ -2,8 +2,8 @@
   <div>
     <section class="projects px-4">
       <h1>Our Portfolio</h1>
-      <nuxt-link
-        :to="'projects/' + index"
+      <a
+        :href="'projects/' + index"
         class="product"
         v-for="(item, index) in PageContent.projects"
         :key="index"
@@ -15,7 +15,7 @@
           </h1>
           <p class="mb-0">Branding, marketing, social meadia</p>
         </div>
-      </nuxt-link>
+      </a>
     </section>
     <MobileFooter />
   </div>
