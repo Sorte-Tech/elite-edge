@@ -1,0 +1,65 @@
+{
+    "projects":[
+        {
+            "project_name": "Swagger",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architectoaliquam sed error! uaerat libero ullam minima quidem nisi, facilisagnam! Architecto aliquam sed error",
+            "project_image": "/png/project05.png",
+            "project_quote": " The good life is a process",
+            "project_qoute2": "not a state of being",
+            "description2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat",
+            "description3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, uaerat",
+            "large_image": "/png/project03.png",
+            "small_image": "/png/project05.png",
+            "small_image2": "/png/project04.png"
+        },
+        {
+            "project_name": "Shease",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architectoaliquam sed error! uaerat libero ullam minima quidem nisi, facilisagnam! Architecto aliquam sed error",
+            "project_image": "/png/project05.png",
+            "project_quote": " The good life is a process",
+            "project_qoute2": "not a state of being",
+            "description2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat",
+            "description3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, uaerat",
+            "large_image": "/png/project03.png",
+            "small_image": "/png/project05.png",
+            "small_image2": "/png/project04.png"
+        },
+        {
+            "project_name": "Ink Laver",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architectoaliquam sed error! uaerat libero ullam minima quidem nisi, facilisagnam! Architecto aliquam sed error",
+            "project_image": "/png/project05.png",
+            "project_quote": " The good life is a process",
+            "project_qoute2": "not a state of being",
+            "description2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat",
+            "description3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, uaerat",
+            "large_image": "/png/project03.png",
+            "small_image": "/png/project05.png",
+            "small_image2": "/png/project04.png"
+        },
+        {
+            "project_name": "Ink Laver",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architectoaliquam sed error! uaerat libero ullam minima quidem nisi, facilisagnam! Architecto aliquam sed error",
+            "project_image": "/png/project05.png",
+            "project_quote": " The good life is a process",
+            "project_qoute2": "not a state of being",
+            "description2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat",
+            "description3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, uaerat",
+            "large_image": "/png/project03.png",
+            "small_image": "/png/project05.png",
+            "small_image2": "/png/project04.png"
+        },
+        {
+            "project_name": "Ink Laver",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architectoaliquam sed error! uaerat libero ullam minima quidem nisi, facilisagnam! Architecto aliquam sed error",
+            "project_image": "/png/project05.png",
+            "project_quote": " The good life is a process",
+            "project_qoute2": "not a state of being",
+            "description2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, facilis magnam! Architecto aliquam sed error! uaerat",
+            "description3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta praesentium natus ab, deleniti unde pariatur cum, accusamus quaerat libero ullam minima quidem nisi, uaerat",
+            "large_image": "/png/project03.png",
+            "small_image": "/png/project05.png",
+            "small_image2": "/png/project04.png"
+        }
+
+    ]
+}
